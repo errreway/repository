@@ -1,7 +1,12 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
+[Oo]bj/d
+d
+d
+d
+
+d
 [Bb]in/
 
 # Other files and folders
